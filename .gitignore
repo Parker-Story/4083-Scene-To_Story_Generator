@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Google Cloud credentials (EVENTUALLY)
-#keys/*.json
+keys/*.json
 
 # Virtual environment
 venv/

@@ -1,1 +1,8 @@
-#Lists what packages to install.
+#Lists what packages to install (assuming you're using bash).
+
+pip install google-cloud-vision
+set GOOGLE_APPLICATION_CREDENTIALS=path\to\your\service-account-key.json
+
+# $env:GOOGLE_APPLICATION_CREDENTIALS="path\to\your\service-account-key.json" if using powershell
+
+
