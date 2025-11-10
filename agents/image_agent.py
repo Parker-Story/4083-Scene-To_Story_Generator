@@ -2,7 +2,7 @@ import os
 from google.cloud import vision
 
 # Set Google API credentials
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'visionapi-477417-dca3fea94a84.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '[APIKEY]'
 
 def detect_labels(path):
     """Detects labels in the file and returns them as a list of dictionaries."""
