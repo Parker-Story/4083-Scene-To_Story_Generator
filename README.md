@@ -1,7 +1,7 @@
-# Scene-to-Story Generator
+# Once Upon An Image
 
 ## Description
-The Scene-to-Story Generator is a collaborative AI project that transforms images into short, descriptive stories. 
+The Once Upon An Image is a collaborative AI project that transforms images into short, descriptive stories. 
 It uses two AI agents: an **Image Agent** for detecting key objects and scenes, and a **Text Agent** for generating narratives based on the detected elements.
 
 ## Features
